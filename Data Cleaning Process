@@ -1,0 +1,8 @@
+Process covered:
+ Checked dataset shape
+used df.isnull().sum()
+Handled missing values
+fixed data types
+Removed incorrect entries
+recalculated Total revenue
+removed duplictaes 
